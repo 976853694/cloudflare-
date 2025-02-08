@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 部署指南
 
 ## 1️⃣ Cloudflare 服务条款限制
@@ -38,6 +38,5 @@
 
 ## 用法
 在任意网址前面加上 `https://你的域名/`，例如：
-```
 https://你的域名/https://github.com
-```
+
